@@ -1,4 +1,6 @@
-Hey! 👋
+Hey! Welcome to my profile 👋
+
+Discord: speedboost57#4405
 
 ---
 
