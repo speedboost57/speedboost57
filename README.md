@@ -26,5 +26,3 @@ Discord: speedboost57#0001
 [website]: https://speedboost.club
 [twitter]: https://twitter.com/speedboost57
 [youtube]: https://youtube.com/speedboost57
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedboost57&show_icons=true&theme=merko)
