@@ -47,6 +47,3 @@
 <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" height="25"> 
 </p>
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=speedboost57&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=speedboost57&theme=midnight-purple&include_all_commits=true&count_private=true)
