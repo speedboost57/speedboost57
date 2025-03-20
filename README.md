@@ -16,7 +16,7 @@
 
 👋 Hello, I'm speedboost, currently learning Java...
 - Pronouns: Attack/Helicopter 🚁
-- Discord: speedboost573 (Banned: speedboost57 & 3 more) 💬
+- Discord: speedboost.57 (Banned: speedboost57 & 4 more) 💬
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Skills & Software</h2>                                                                                                                       
 
 <p>
